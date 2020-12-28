@@ -1,3 +1,3 @@
 ## Welcome to The Modern Multilingual 
 
-themodernmultilingual.github.io
+http://themodernmultilingual.github.io
